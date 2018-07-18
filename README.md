@@ -1,0 +1,1 @@
+plotting a trie datastructure
